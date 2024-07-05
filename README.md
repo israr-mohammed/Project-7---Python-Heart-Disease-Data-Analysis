@@ -17,8 +17,8 @@ Python tools included Pandas, Seaborn, Matplotlib, and Plotly.
 This project sharpened my data analysis skills and deepened my understanding of health data insights. Grateful for the mentorship from Unified Mentor, I look forward to applying these skills in future data analyst roles.
 
 ### Links
-Full Analysis Report : [Link](https://drive.google.com/file/d/1iIzeTrCtM3cIaA6VlDw2dpZgEnJHlI9x/view?usp=drive_link)
-GitHub Repository : [Link](https://github.com/israr-mohammed?tab=repositories)
-LinkedIn Profile :[Link](https://www.linkedin.com/in/israrmohammed/)
-Portfolio for Live Dashboard :[Link](https://codebasics.io/portfolio/ISRAR-MOHAMMED)
+Full Analysis Report : [Link](https://drive.google.com/file/d/1iIzeTrCtM3cIaA6VlDw2dpZgEnJHlI9x/view?usp=drive_link) 
+GitHub Repository : [Link](https://github.com/israr-mohammed?tab=repositories) 
+LinkedIn Profile :[Link](https://www.linkedin.com/in/israrmohammed/) 
+Portfolio for Live Dashboard :[Link](https://codebasics.io/portfolio/ISRAR-MOHAMMED) 
 Feel free to explore the full analysis report and connect with me on LinkedIn for further discussions!
